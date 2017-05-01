@@ -1,6 +1,6 @@
-# react-starter
+# react-redux-starter
 
-A starter kit / boilerplate for building React single page applications with Webpack 2, Babel, and Yarn
+A starter kit / boilerplate for building React single page applications with Redux, Webpack 2, Babel, and Yarn
 
 ## Features
 * A quick and simple setup guide to get started on building React single page applications.

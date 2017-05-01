@@ -1,9 +1,9 @@
 {
-    "name": "react-starter",
+    "name": "react-redux-starter",
     "version": "1.0.0",
-    "description": "A starter kit, boilerplate for building React single page applications with Webpack 2, Babel, and Yarn",
+    "description": "A starter kit / boilerplate for building React single page applications with Redux, Webpack 2, Babel, and Yarn",
     "main": "index.js",
-    "repository": "https://github.com/npranto/react-guide.git",
+    "repository": "https://github.com/npranto/react-redux-starter.git",
     "author": "Nazmuz Shakib Pranto <npranto@gmail.com>",
     "license": "MIT",
     "scripts": {
